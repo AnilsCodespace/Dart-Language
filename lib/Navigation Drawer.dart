@@ -28,7 +28,7 @@ class _MyNavState extends State<MyNav> {
         ),
         drawer: Theme(
             data: Theme.of(context).copyWith(),
-            child: Drawer(
+            child: Drawer(backgroundColor: Colors.transparent,
               child: ListView(
                 children: [
                   UserAccountsDrawerHeader(

@@ -43,7 +43,7 @@ class _BasicNavState extends State<BasicNav> {
               icon: Icon(Icons.call),
               backgroundColor: Colors.lightGreen,
               label: "Calls"),
-          BottomNavigationBarItem(
+           BottomNavigationBarItem(
               icon: Icon(
                 Icons.camera,
               ),
