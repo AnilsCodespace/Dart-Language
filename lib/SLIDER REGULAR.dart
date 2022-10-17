@@ -15,6 +15,7 @@ class SlidEstate extends State<SlidE> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Column(
