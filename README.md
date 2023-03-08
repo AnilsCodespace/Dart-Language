@@ -1,4 +1,4 @@
-# classworks
+# Luminar Flutter Course
 
 programs done on class
 
