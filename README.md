@@ -1,6 +1,6 @@
 # Luminar Flutter Course
 
-programs done on class
+ 
 
 ## Getting Started
 
